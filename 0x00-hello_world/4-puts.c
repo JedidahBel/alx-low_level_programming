@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main- Prints "Programming is like building a multilingual puzzle, followed by a new line.
+ * main-Serves as the entry point for the program
  *
  * Return: By default returns zero if no errors otherwise return non-zero value.
  */
