@@ -2,7 +2,6 @@
 
 /**
  * swap_int : swaps values pointed to by arguments
- *
  * @a: pointer argument 1
  * @b: pointer argument 2
  */
