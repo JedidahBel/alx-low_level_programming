@@ -5,11 +5,14 @@
  *
  * @a: pointer argument 1
  * @b: pointer argument 2
+ *
+ * Return:(0)
  */
 void swap_int(int *a, int *b)
 {
-	int num = *a;
+	int num;
 
-	*a = *b;
-	*b = num;
+	int num = *a;
+             *a = *b;
+	     *b = num;
 }
