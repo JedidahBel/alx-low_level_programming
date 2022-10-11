@@ -2,7 +2,7 @@
 
 /**
  * main - entry point
- * 	prints number of arguments entered, then exit.
+ *	prints number of arguments entered, then exit.
  *
  * @argc: count of arguments entered
  * @argv: list of arguments entered
